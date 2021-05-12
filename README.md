@@ -6,7 +6,6 @@
 </p>
 <br/>
 <h3 align="center">Visitor Count<h3/>
-<br/>
 <p align="center">
   <img src="https://profile-counter.glitch.me/Abhayaku/count.svg">
 </p>
