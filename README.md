@@ -6,7 +6,9 @@
         max-width:100%;
         border:none;
         display:block;"
-       src="https://cdn39.picsart.com/147366079000202.png">
+        src="https://cdn39.picsart.com/147366079000202.png"
+       alt="welcome"
+   >
 </p>
 <br/>
 <p align="center">
