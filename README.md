@@ -17,9 +17,9 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Computer Science graduate passionate about building performant mobile and backend applications.
-- 📱 **React Native** expert with deep knowledge of Reanimated, Gesture Handler, and ExoPlayer integrations.
+- 📱 **React Native** expert with deep knowledge of Reanimated, Gesture Handler, and Naitve integrations.
 - 🛠️ **Node.js & NestJS** developer, skilled in designing scalable REST APIs, authentication, and file processing.
-- 🌐 Experienced in **AWS** (S3, CloudFront), **MongoDB Atlas Vector Search**, and **CI/CD** pipelines on VPS.
+- 🌐 Experienced in **AWS** (S3, Serverless, Lambda), **MongoDB Atlas Vector Search**, and **CI/CD** pipelines on VPS.
 - 🤖 Worked on **RAG-based chatbots** with LangChain, vector embeddings, and OCR-enhanced document retrieval.
 - 🔍 Always optimizing for smooth UX, low-latency video streaming, and clean, maintainable code.
 
