@@ -21,7 +21,7 @@
 - 🛠️ **Node.js & NestJS** developer, skilled in designing scalable REST APIs, authentication, and file processing.
 - 🌐 Experienced in **AWS** (S3, Serverless, Lambda), **MongoDB Atlas Vector Search**, and **CI/CD** pipelines on VPS.
 - 🤖 Worked on **RAG-based chatbots** with LangChain, vector embeddings, and OCR-enhanced document retrieval.
-- 🔍 Always optimizing for smooth UX, low-latency video streaming, and clean, maintainable code.
+- 🔍 Always optimize for a smooth UX, scalable mobile and web applications, and clean, maintainable code.
 
 ---
 
