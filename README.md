@@ -29,6 +29,7 @@
 
 <div>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=%2361DAFB" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=%2361DAFB" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
